@@ -1,11 +1,7 @@
 '''
 Created on 19/04/2014
 
-<<<<<<< HEAD
 @author: cataldo teste
-=======
-@author: cataldo1
->>>>>>> 107fadbc9b14fccd40ebf69bf051546560104a7f
 '''
 # quick sort
 def partition(myList, start, end):
