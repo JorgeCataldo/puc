@@ -1,7 +1,7 @@
 '''
 Created on 19/04/2014
 
-@author: cataldo
+@author: cataldo1
 '''
 # quick sort
 def partition(myList, start, end):
